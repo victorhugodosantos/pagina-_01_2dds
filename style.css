@@ -13,53 +13,7 @@
         background-color: #424e61;
         color: white;
         width: 100%;
-        padding: 20px;{
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            }
-            
-            body{
-                font-family: "Poppins", sans-serif;
-            }
-            
-            header{
-            
-                background-color: #424e61;
-                color: white;
-                width: 100%;
-                padding: 20px;
-            }
-            
-            .cabecalho-itens{
-                 max-width: 1980px;
-                 margin: 0 auto;
-                 display: flex;
-                 align-items: center;
-                 justify-content: center;
-            }
-            
-            .cabecalho-imagem{
-                width: 10%;
-                display: flex;
-                justify-content: flex-start;
-                align-items: center;
-            }
-            
-            .titulo_site{
-                padding: 50px;
-                text-align: center;
-                width: 50%;
-                font: 30px;
-            }
-            
-            .sociais{
-                display: flex;
-                justify-content: flex-end;
-                width: 25%;
-                padding-right: 30px;
-            
-            }
+        padding: 20px;
     }
     
     .cabecalho-itens{
@@ -91,3 +45,37 @@
         padding-right: 30px;
     
     }
+
+    .benner1{
+      
+
+
+
+
+
+
+    }
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
